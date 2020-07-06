@@ -1,0 +1,5 @@
+/pkg/
+/bin/
+/.idea/
+giligili.iml
+/src/vendor/
